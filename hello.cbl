@@ -1,4 +1,3 @@
-            *> to run: cobc -x -o hello hello.cbl && ./hello
             *> Provides the program name and other items to identify the program.
             IDENTIFICATION DIVISION.
             *> setup the program id
