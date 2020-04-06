@@ -6,6 +6,6 @@
             *> Specify the operations to be performed by the program
             PROCEDURE DIVISION.
               *> print a string
-              DISPLAY 'ANWARA IS A FLUFFY BUNNY'.
+              DISPLAY 'HELLO FROM COBOL'.
             *> end program
             STOP RUN.
